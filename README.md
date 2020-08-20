@@ -7,8 +7,4 @@
 
 - 🔭 I’m currently working on [THE INNKEEPER](https://github.com/jerrybelmonte/The-Innkeeper) :receipt:
 
-- 🌱 I’m currently learning **Apache Maven and Gradle :toolbox:, Algorithms and Data Structures in :snake:**
-
-- ⚡ Fun fact, **I enjoy nature hikes :evergreen_tree: over the beach :beach_umbrella:**
-
 <p align="center"> <a href="https://linkedin.com/in/jerrybelmonte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jerrybelmonte" height="50" width="50" /></a> </p>
